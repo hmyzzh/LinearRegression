@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/test1/static/css/main.02301e62.css",
-    "main.js": "/test1/static/js/main.d424e402.js",
-    "static/js/787.2f42b337.chunk.js": "/test1/static/js/787.2f42b337.chunk.js",
-    "index.html": "/test1/index.html",
-    "main.02301e62.css.map": "/test1/static/css/main.02301e62.css.map",
-    "main.d424e402.js.map": "/test1/static/js/main.d424e402.js.map",
-    "787.2f42b337.chunk.js.map": "/test1/static/js/787.2f42b337.chunk.js.map"
+    "main.css": "/LinearRegression/static/css/main.02301e62.css",
+    "main.js": "/LinearRegression/static/js/main.34954e5f.js",
+    "static/js/787.2f42b337.chunk.js": "/LinearRegression/static/js/787.2f42b337.chunk.js",
+    "index.html": "/LinearRegression/index.html",
+    "main.02301e62.css.map": "/LinearRegression/static/css/main.02301e62.css.map",
+    "main.34954e5f.js.map": "/LinearRegression/static/js/main.34954e5f.js.map",
+    "787.2f42b337.chunk.js.map": "/LinearRegression/static/js/787.2f42b337.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02301e62.css",
-    "static/js/main.d424e402.js"
+    "static/js/main.34954e5f.js"
   ]
 }
